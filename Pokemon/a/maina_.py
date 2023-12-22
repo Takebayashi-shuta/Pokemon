@@ -5,6 +5,7 @@ import time
 import Layout_ as lo
 import Monsters_ as ms
 
+
 # 初期化
 pg.init()
 
